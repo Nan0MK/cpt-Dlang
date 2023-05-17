@@ -1,2 +1,4 @@
 # cpt-Dlang
- Nan0MK's cool print tools
+# Nan0MK-CoolPrint-Tools
+ Functions that print text in cool ways
+
