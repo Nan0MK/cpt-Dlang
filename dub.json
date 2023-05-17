@@ -1,0 +1,8 @@
+{
+    "name": "cpt",
+    "description": "Nan0MK's Cool Print Tools Dlang Edition",
+    "authors": ["Nan0MK"],
+    "license": "MIT",
+    "dependencies": {
+    }
+}
